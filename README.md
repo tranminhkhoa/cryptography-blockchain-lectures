@@ -8,7 +8,8 @@
 
 ## zkSTARKs
 
-- [Video](https://drive.google.com/file/d/1BPGMZRpA4DyRdIIJPyN8Jc_H1bRNUBsB/view?usp=share_link)
+- [Video 1](https://drive.google.com/file/d/1BPGMZRpA4DyRdIIJPyN8Jc_H1bRNUBsB/view?usp=share_link)
+- [Video 2](https://drive.google.com/file/d/1CNQLbF49LnmvwBeDp6P1tqVqm9SEW6Mr/view?usp=sharing)
 - [Slides](https://starkware.co/stark-101/)
 
 ## Siphereum Roadmap
