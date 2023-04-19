@@ -56,11 +56,11 @@
 
 ## Universal Circuits
 
-[Videos](https://drive.google.com/file/d/1sSN2Bs163GpXGJONWRhpG6lhueE_GJfi/view?usp=sharing)
+[Video](https://drive.google.com/file/d/1sSN2Bs163GpXGJONWRhpG6lhueE_GJfi/view?usp=sharing)
 
 ## Multiparty Computation
 
-[Videos](https://drive.google.com/file/d/1oU3nYXtzTw2bq_FHnZEslHktG49PUdVs/view)
+[Video](https://drive.google.com/file/d/1oU3nYXtzTw2bq_FHnZEslHktG49PUdVs/view)
 
 ---
 ### Contact
