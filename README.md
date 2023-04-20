@@ -64,8 +64,12 @@
 
 ## Consensus Mechanisms
 
-- [Proof-of-Work](https://drive.google.com/file/d/17-k7CLqRMoTGIaeWhU7P8LzdQQNkKIRt/view?usp=sharing)
-- [Proof-of-Stake](https://drive.google.com/file/d/17vrypxLmNPojCy04S8rL4eDVHX4hFZp-/view?usp=sharing)
+- Proof-of-Work
+    - [Video (Google Drive)](https://drive.google.com/file/d/17-k7CLqRMoTGIaeWhU7P8LzdQQNkKIRt/view?usp=sharing)
+    - [Video (Youtube)](https://youtu.be/OVIll8EK8-4)
+- Proof-of-Stake
+    - [Video (Google Drive)](https://drive.google.com/file/d/17vrypxLmNPojCy04S8rL4eDVHX4hFZp-/view?usp=sharing)
+    - [Video (Youtube)](https://youtu.be/D6VAYI5BJdA)
 
 ## Workshop: Cryptography in Blockchain
 
@@ -86,4 +90,4 @@
 - Author: Khoa Tran
 - Email: tranminhkhoa94@gmail.com
 - Telegram: tmkhoa94
-- Youtube channel:  https://www.youtube.com/@tmkhoa
+- Youtube channel: https://www.youtube.com/@tmkhoa
