@@ -4,7 +4,8 @@
 
 - [Video (Youtube)](https://youtu.be/8SrJSU_u7O8)
 - [Video (Google Drive)](https://drive.google.com/file/d/1FuKCbRmltoXCMjQGnbh9HKlkP5ZOAj8F/view?usp=share_link)
-- [Slides](https://drive.google.com/file/d/115MD9L0GYIHO5McjNlXzlcHeqRCgRtTR/view?usp=sharing)
+- [Slides (Annotated)](https://drive.google.com/file/d/115MD9L0GYIHO5McjNlXzlcHeqRCgRtTR/view?usp=sharing)
+- [Slides (Plain)](https://drive.google.com/file/d/13My-YMadnx6Z2NiWTkcjbnZ1AlXgIHMi/view?usp=sharing)
 - [Discussion](https://drive.google.com/file/d/1kk1LGM1e2xuBkZC3vljS6P-fVGuHyuq4/view?usp=share_link)
 
 ## zkSTARKs
